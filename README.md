@@ -1,7 +1,7 @@
 ### Hey, It's Batuhan Şahin
-I am Computer Engineer Student in Ankara. I love experimenting with new technologies and building small projects.
+I am Computer Engineering Student in Ankara. I love experimenting with new technologies and building small projects.
 
-- 💻  **Computer Engineer Student**.
+- 💻  **Computer Engineering Student**.
 
 - ☀️ Learning and Developing client-side and server-side projects in Java and Dart.
 
