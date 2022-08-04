@@ -1,6 +1,7 @@
 <div align="center">
 
-### Hey, It's Batuhan Şahin
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+Github+Page;I+am+Batuhan+Sahin;Nice+to+meet+you+%3AD)](https://git.io/typing-svg)
+
 
 <br>
 I am Computer Engineering Student in Ankara. I love experimenting with new technologies and building small projects.
