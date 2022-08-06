@@ -2,13 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Welcome+to+My+Github+Page;I+am+Batuhan+Sahin;Nice+to+meet+you+%3AD)](https://git.io/typing-svg)
 
-
-<br>
-I am Computer Engineering Student in Ankara. I love experimenting with new technologies and building small projects.
-
 <br>
 
- 💻  Computer Engineering Student.
+ 💻  Computer Engineering Student in Ankara.
  
 <br>
 
