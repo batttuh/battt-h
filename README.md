@@ -8,7 +8,7 @@
  
 <br>
 
- ☀️ Learning and Developing client-side and server-side projects in Java and Dart.
+ ☀️ Learning and Developing client-side and server-side projects.
  
 <br>
 
