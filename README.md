@@ -4,16 +4,20 @@
 
 <br>
 
- 💻  Computer Engineering Student in Ankara.
+   Computer Engineering Student in Ankara.
  
 <br>
 
- ☀️ Learning and Developing client-side and server-side projects.
+ 💻 Learning and Developing client-side and server-side projects.
  
 <br>
 
  ✍️ Writing tech posts at the <a href=https://medium.com/@bthnshn263506> Medium </a>.
  
+ <br>
+ 
+ ☀️ https://batttuh.com/HomePage
+ <br>
 </div>
 
 
