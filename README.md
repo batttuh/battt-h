@@ -16,7 +16,7 @@
  
  <br>
  
- ☀️ https://batttuh.com
+ ☀️ https://batttuh.com/
  <br>
 </div>
 
